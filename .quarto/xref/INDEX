@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "de2ce9fe"
+  },
+  "projects/index.qmd": {
+    "index.html": "d6fb8ad0"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "ce4e1b7a"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "1d2201d3"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "f9e90f8d"
+  },
+  "Cv.qmd": {
+    "Cv.html": "b9175edb"
+  },
+  "cv.qmd": {
+    "cv.html": "e4771730"
+  },
+  "talks.qmd": {
+    "talks.html": "aac210ca"
+  },
+  "research.qmd": {
+    "research.html": "b0836d3a"
+  }
+}

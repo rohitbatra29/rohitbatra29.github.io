@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+editor: visual
+page-layout: full
+---
+
+You can [download my full CV here](cv/Batra_cv_Sep_2025.pdf).
+
+<embed src = "cv/Batra_cv_Sep_2025.pdf" type = "application/pdf" width="100%" height="800px">

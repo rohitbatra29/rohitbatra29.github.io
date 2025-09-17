@@ -1,0 +1,31 @@
+{
+    "id": "BDBB074C",
+    "path": "~/Documents/website/research.qmd",
+    "project_path": "research.qmd",
+    "type": "quarto_markdown",
+    "hash": "3158767645",
+    "contents": "",
+    "dirty": false,
+    "created": 1758068955379.0,
+    "source_on_save": true,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "13,8",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1758069246,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758069246998,
+    "read_only": false,
+    "read_only_alternatives": []
+}
