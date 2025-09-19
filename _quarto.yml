@@ -8,15 +8,10 @@ website:
   navbar:
     title: Rohit Batra, PhD
     right:
-      - text: Research
-        href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: Talks
-        href: talks.qmd
       - text: CV
         href: cv.qmd
-      
       
 format:
   html:

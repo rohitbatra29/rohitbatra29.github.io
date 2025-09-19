@@ -14,11 +14,64 @@ body {
 
 h1, h2, h3 {
   font-family: 'Roboto Slab', serif;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 $content-max-width: 1100px;
 
-$navbar-bg: #99d98c;       // dark blue-gray
+$navbar-bg:  #c6ecc6;       // dark blue-gray
 $navbar-hover-color: #f39c12;  // link hover color
 $navbar-active-color: #e67e22; // active page color
+
+
+/* Make about-page links text larger */
+.about-links a {
+  font-size: 1.4rem !important;   /* bump this up as you like: 1.2–1.4rem */
+  font-weight: 500;               /* optional: slightly bolder */
+}
+
+.about-links img {
+  height: 36px !important;   /* was 20px in your YAML */
+  width: auto;
+  vertical-align: middle;
+}
+
+/* ====== Publications buttons (uniform sizing + alignment) ====== */
+:root { --pub-accent: #000; --pub-btn-h: 40px; }  /* adjust 38–44px if needed */
+
+.pub-links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.6rem;
+  align-items:center;             /* align pills on the same baseline */
+  margin:.4rem 0 1rem;
+}
+
+.pub-btn{
+  display:inline-flex;
+  align-items:center;             /* center icon + text vertically */
+  gap:.5rem;
+  height:var(--pub-btn-h);        /* uniform height */
+  padding:0 1rem;                 /* vertical space handled by height */
+  border-radius:calc(var(--pub-btn-h) / 2);
+  border:2px solid var(--pub-accent);
+  background:#fff;                /* no grey tint */
+  color:var(--pub-accent);
+  text-decoration:none;
+  font-size:1rem;                 /* make all labels same size */
+  line-height:1;                  /* remove extra baseline slack */
+}
+
+.pub-btn:hover,
+.pub-btn:focus-visible{
+  background:#c6ecc6;             /* your hover fill */
+  border-color:var(--pub-accent);  /* solid, no color-mix jitter */
+  text-decoration:none;
+}
+
+.pub-btn .icon{
+  height:1.2em;                   /* scales with text size */
+  width:1.2em;
+  display:block;                  /* removes baseline whitespace */
+  flex-shrink:0;
+}

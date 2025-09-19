@@ -1,3 +1,70 @@
 ---
 title: "Publications"
 ---
+
+## Articles in Preparation
+
+* **Batra, R.** & Ferrer, E. (Planned Submission, 2026) Modeling timescales coupling for dynamic processes using differential equations
+
+* Park, J., **Batra, R.**, Cho, YW. & Ferrer, E. (Planned Submission, 2025) Approximating continuous-time models with discrete-time results
+
+* Springstein, T., **Batra, R.** & Beck, E. (Planned Submission, 2025) Emotion regulation as an idiographic dynamic system: Individual differences in success of goal-directed regulation in daily life
+
+## Articles Under Review
+
+### &#8226; [SimDE App: Simulating and visualizing formal theories using differential equations.](https://osf.io/preprints/psyarxiv/sh4e7_v2)
+
+**Batra, R.**, Beck, E., Chen, M. & Ferrer, E. (Conditionally Accepted) SimDE App: Simulating and visualizing formal theories using differential equations. *Psychological Methods*
+
+<div class="pub-links">
+[![](assets/osf.svg){.icon} Preprint](https://osf.io/preprints/psyarxiv/sh4e7_v2){.pub-btn}
+[![](assets/github-mark.svg){.icon} GitHub Repository](https://github.com/rohitbatra29/SimDE){.pub-btn}
+[![](assets/SimDE.png){.icon} SimDE App](https://simde.ucdavis.edu/){.pub-btn}
+<!-- [DOI](https://doi.org/10.xxxx/your-doi){.pub-btn} -->
+</div>
+
+### &#8226; [Translating psychological verbal theories into formal models of change with differential equations.](https://osf.io/kqyxa_v2) 
+
+**Batra, R.\***, Chen, M.\*, Beck, E. & Ferrer, E. (Under Review) Translating psychological verbal theories into formal models of change with differential equations. *Psychological Methods*
+
+<div class="pub-links">
+[![](assets/osf.svg){.icon} Preprint](https://osf.io/kqyxa_v2){.pub-btn}
+</div>
+
+## Published
+
+### &#8226; [Consequences of sampling frequency on the estimated dynamics of AR processes using continuous time models.](https://doi.org/10.1037/met0000595) 
+
+**Batra, R.\***, Johal, S. K.\*, Chen, M., & Ferrer, E. (2023). Consequences of sampling frequency on the estimated dynamics of AR processes using continuous-time models. *Psychological Methods*, 30(4), 843–865. https://doi.org/10.1037/met0000595
+
+<div class="pub-links">
+[![](assets/osf.svg){.icon} Preprint](https://osf.io/preprints/psyarxiv/2k8pu_v1){.pub-btn}
+[![](assets/github-mark.svg){.icon} GitHub Repository](https://github.com/rohitbatra29/Sampling_on_CT-AR){.pub-btn}
+</div>
+
+### &#8226; [Contexualized and decontextualized questions on bilinguals’ heritage language learning and reading engagement.](https://link.springer.com/article/10.1007/s11145-022-10332-z)
+
+Sun, H., **Batra, R.** Contextualized and decontextualized questions on bilinguals’ heritage language learning and reading engagement. *Reading Writing* 37, 973–1009 (2024). https://doi.org/10.1007/s11145-022-10332-z
+
+### &#8226; [Modeling retest effects in developmental processes using latent change score models.](https://doi.org/10.1080/10705511.2021.1946807)
+
+**Batra, R.**, Bunge, S. A., & Ferrer, E. (2021). Modeling retest effects in developmental processes using latent change score models. *Structural Equation Modeling: A Multidisciplinary Journal*, 1–15. https://doi.org/10.1080/10705511.2021.1946807
+
+<div class="pub-links">
+[![](assets/osf.svg){.icon} Preprint](https://osf.io/preprints/psyarxiv/gu78q_v1){.pub-btn}
+[![](assets/github-mark.svg){.icon} GitHub Repository](https://github.com/rohitbatra29/Retest_in_LCS_2021){.pub-btn}
+</div>
+
+### &#8226; [Collecting longitudinal data: Present issues and future challenges](https://psycnet.apa.org/record/2023-78956-018)
+
+Johal, S. K.\*, **Batra, R.\***, & Ferrer, E. (2023). Collecting longitudinal data: Present issues and future challenges. In H. Cooper, M. N. Coutanche, L. M. McMullen, A. T. Panter, D. Rindskopf, & K. J. Sher (Eds.), *APA handbook of research methods in psychology: Research designs: Quantitative, qualitative, neuropsychological, and biological* (2nd ed., pp. 385–408). American Psychological Association. https://doi.org/10.1037/0000319-018
+
+
+\*: Denotes Joint First-Authorship
+
+
+
+
+
+
+

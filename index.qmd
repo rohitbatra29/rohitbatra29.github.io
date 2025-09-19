@@ -5,21 +5,20 @@ image: assets/DSC_0364.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: broadside
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/rohitbatra29
-    - icon: envelope
-      text: Email
+    - text: "<img src='assets/email-svgrepo-com.svg' style='height:20px;'> Email"
       href: mailto:rbat@ucdavis.edu
+    - text: "<img src='assets/github-mark.svg' style='height:20px;'> GitHub"
+      href: https://github.com/rohitbatra29
     - text: "<img src='assets/SimDE.png' style='height:20px;'> SimDE"
       href: https://simde.ucdavis.edu/
     - text: "<img src='assets/ORCID-iD_icon_24x24.png' style='height:20px;'> ORCID"
       href: https://orcid.org/0000-0001-8835-8573
     - text: "<img src='assets/icons8-google-scholar-48.png' style='height:20px;'> Google Scholar"
       href: https://scholar.google.com/citations?user=xj1XDPsAAAAJ&hl=en
-    - icon: file-earmark-text
-      text: CV
+    - text: "<img src='assets/curriculum-resume-svgrepo-com.svg' style='height:20px;'> CV"
       href: cv.qmd
+    - text: "<img src='assets/osf.svg' style='height:20px;'> OSF"
+      href: https://osf.io/brcj5/ 
 ---
 
 I am a Quantitative Psychologist studying psychological phenomena through a dynamical systems framework. In my work, I examine whether psychological processes are truly continuous in their functioning, and how researchers can define and measure this continuity. I also develop approaches for translating psychological theories into dynamic models such as differential equations, and create accessible tools that helps researchers explore and apply these models.
