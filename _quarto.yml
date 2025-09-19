@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Home"
-  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  site-url: https://rohitbatra29.github.io/website/
   page-footer: "Rohit Batra, PhD"
   navbar:
     title: Rohit Batra, PhD
