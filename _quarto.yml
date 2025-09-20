@@ -9,13 +9,12 @@ website:
     title: Rohit Batra, PhD
     right:
       - text: Publications
-        href: publications/
+        href: publications.qmd
       - text: CV
-        href: cv/
+        href: cv.qmd
       
 format:
   html:
-    output-ext: ""
     fontcolor: "black"
     fontsize: "20px"
     theme: [cosmo, styles.scss]
