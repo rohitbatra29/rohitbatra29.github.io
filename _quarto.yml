@@ -9,9 +9,9 @@ website:
     title: Rohit Batra, PhD
     right:
       - text: Publications
-        href: publications.qmd
+        href: publications/
       - text: CV
-        href: cv.qmd
+        href: cv/
       
 format:
   html:
