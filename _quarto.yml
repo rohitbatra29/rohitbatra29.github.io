@@ -3,7 +3,8 @@ project:
 
 website:
   title: "Home"
-  site-url: https://rohitbatra29.github.io/
+  site-url: https://rohitbatra.net
+  google-analytics: "G-XVGSSBBVL8"
   page-footer: "Rohit Batra, PhD"
   navbar:
     title: Rohit Batra, PhD
