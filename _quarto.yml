@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: [CNAME]
 
 website:
   title: "Home"
@@ -7,7 +8,7 @@ website:
   google-analytics: "G-XVGSSBBVL8"
   page-footer: "Rohit Batra, PhD"
   navbar:
-    title: Rohit Batra, PhD
+    title: Rohit Batra, PhDge
     right:
       - text: Publications
         href: publications.qmd
