@@ -1,12 +1,14 @@
 ---
 title: "Rohit Batra, PhD"
-subtitle: "Postdoctoral Scholar in Quantitative Psychology"
+subtitle: |
+  Postdoctoral Scholar in Quantitative Psychology<br>
+  <a href="https://www.humanhealthlabs.org/">Cornell University</a>
 image: assets/DSC_0364.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: broadside
   links:
     - text: "<img src='assets/email-svgrepo-com.svg' style='height:20px;'> Email"
-      href: mailto:rbat@ucdavis.edu
+      href: mailto:rb2235@cornell.edu
     - text: "<img src='assets/github-mark.svg' style='height:20px;'> GitHub"
       href: https://github.com/rohitbatra29
     - text: "<img src='assets/SimDE.png' style='height:20px;'> SimDE"
@@ -21,4 +23,4 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://osf.io/brcj5/ 
 ---
 
-I am a Quantitative Psychologist studying psychological phenomena through a dynamical systems framework. In my work, I examine whether psychological processes are truly continuous in their functioning, and how researchers can define and measure this continuity. I also develop approaches for translating psychological theories into dynamic models such as differential equations, and create accessible tools that helps researchers explore and apply these models.
+I am a Quantitative Psychologist studying psychological phenomena through a dynamical systems framework. In my work, I examine under what conditions it is useful and defensible to treat a psychological process as continuous, and how to define this continuity. A central theme of my work is understanding phenomena across timescales and developing frameworks for understanding how psychological processes unfold continuously across these timescales. I also develop approaches for translating psychological theories into dynamic models such as differential equations, and create accessible tools that helps researchers explore and apply these models.
